@@ -1,0 +1,14 @@
+.mx-auto{
+    margin: 4rem;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.flex-col{
+    flex-direction: column;
+}

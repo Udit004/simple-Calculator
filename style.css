@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.text-center{
+    text-align: center;
+    margin: 3rem;
+    font-size: 44px;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+}
+
+.button:hover{
+    color: rgb(245, 247, 248);
+    background-color: rgb(48, 43, 43);
+    font-size: 1.01rem;
+    
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    padding: 8px 0px;
+    margin: 0px;
+    border-radius: 7px;
+    font-size: 24px;
+}
